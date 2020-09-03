@@ -1,0 +1,2 @@
+# setTransaparentStateBar
+设置透明状态栏，让状态栏颜色和ToolsBar颜色一致
